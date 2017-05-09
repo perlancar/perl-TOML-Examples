@@ -1,0 +1,2 @@
+These examples are taken from IOD-Examples distribution, mainly for comparison
+and benchmark with IOD parsers.

@@ -1,0 +1,4 @@
+These examples are taken from the official website of TOML language
+specification at:
+
+    https://github.com/toml-lang/toml
